@@ -1,4 +1,4 @@
-# Requirements
+# Requirements:
 
   * Python 3.7
 
@@ -7,7 +7,7 @@
 > introduced in Python 3.6.
 
 
-# Sample Execution & Output
+# Sample Execution & Output:
 
 If run without command line arguments, using
 
